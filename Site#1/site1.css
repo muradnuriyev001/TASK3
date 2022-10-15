@@ -1,0 +1,29 @@
+
+.div1{
+    background-color: rgb(41, 37, 37);  
+
+    
+    
+}
+
+.span1{
+    color: white;
+    font-size: large;
+    display: inline;
+    margin-left: 30px;
+    
+}
+
+.span2{
+    color: gray;
+    margin-left: 76%;
+    display: inline;
+}
+
+.home{
+    color: aliceblue;
+}
+
+.text{
+    text-align: center;
+}
